@@ -8,3 +8,5 @@ Vi gjorde klart moodpanel med gratis bilder som vi sökte up. Sen la vi in bilde
 Vi började diskutera lite om hur hemsidan skulle se ut med layout och vi skisade på ett papper sedan la vi in bootstarp och färgerna i codewpen och började bolla och testa på hur det ska se ut.
 ## Vecka 16
 Vi bollade lite om hur vi ska bygga våran hemsida och började skriva lite kod. Navbar var det första vi gjorde som blev väldigt bra. Sedan kollade vi lite på cards och la in dom också.
+## Vecka 19
+Vi fortsatte på hemsidan och stötte på ganska många problem med cards och andra så skit saker. Vi löste några avdom men resten tar vi nästa gång.
